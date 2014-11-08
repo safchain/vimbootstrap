@@ -1,4 +1,4 @@
-colorscheme sacolor
+colorscheme sacolors
 
 set pastetoggle=<F3>
 
