@@ -17,3 +17,5 @@ mkdir ~/.vim/colors && \
         https://raw.githubusercontent.com/safchain/vimbootstrap/master/sacolors.vim
 
 cp .vimrc ~/
+curl -LSso ~/.vimrc \
+    https://raw.githubusercontent.com/safchain/vimbootstrap/master/.vimrc
